@@ -1,9 +1,0 @@
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\ChatServerInterface\bin\Debug\ChatServerInterface.dll
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\ChatServerInterface\bin\Debug\ChatServerInterface.pdb
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\ChatServerInterface\bin\Debug\DLL.dll
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\ChatServerInterface\bin\Debug\DLL.pdb
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\ChatServerInterface\obj\Debug\ChatServerInterface.csproj.AssemblyReference.cache
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\ChatServerInterface\obj\Debug\ChatServerInterface.csproj.CoreCompileInputs.cache
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\ChatServerInterface\obj\Debug\ChatServerInterface.csproj.CopyComplete
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\ChatServerInterface\obj\Debug\ChatServerInterface.dll
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\ChatServerInterface\obj\Debug\ChatServerInterface.pdb

@@ -1,6 +1,0 @@
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\DLL\bin\Debug\DLL.dll
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\DLL\bin\Debug\DLL.pdb
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\DLL\obj\Debug\DLL.dll
-D:\Curtin\COMP 3008\Assignment 1\assignment_1\assignment_1_project\DLL\obj\Debug\DLL.pdb
